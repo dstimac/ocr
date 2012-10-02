@@ -1,0 +1,1 @@
+tessedit_char_whitelist ABCČĆDĐEFGHIJKLMNOPQRSŠTUVWXYZŽ1234567890
