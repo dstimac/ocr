@@ -19,6 +19,7 @@ object OcrWrapper {
 
         toPPM(basePath, fileName)
 
+
         val exec = "tesseract -l hrv %s %s nobatch %s" format(inPath, outPath, wlPath)
 
         Seq("bash", "-c", exec).!
