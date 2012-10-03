@@ -14,5 +14,4 @@ object OcrConfig {
   val BaseFolder     = Config[String]("ocr.baseFolder")
   val OutPgmName     = "out-1.pgm"
   val OutTxtName     = "out-1.pgm.txt"
-
 }
